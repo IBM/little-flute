@@ -1,7 +1,7 @@
 {
   "name": "little-flute",
   "version": "0.1.0",
-  "description": "A clarinet based json parser that returns a javascript object with duplicate keys",
+  "description": "A clarinet based json parser that can be used to parse JSON objects with duplicate keys",
   "main": "index.js",
   "scripts": {
     "test": "mocha unit-tests/",
