@@ -1,0 +1,33 @@
+{
+  "name": "little-flute",
+  "version": "0.1.0",
+  "description": "A clarinet based json parser that returns a javascript object with duplicate keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha unit-tests/",
+    "coverage": "npx nyc npm run test"
+  },
+  "author": "Jennifer Valle",
+  "license": "ISC",
+  "keywords": [
+    "sax",
+    "json",
+    "parser",
+    "stream",
+    "streaming",
+    "event",
+    "events",
+    "emitter",
+    "async",
+    "streamer",
+    "browser"
+  ],
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
+  },
+  "dependencies": {
+    "clarinet": "^0.12.5"
+  }
+}
