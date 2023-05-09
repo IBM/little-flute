@@ -1,6 +1,6 @@
 {
   "name": "little-flute",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A clarinet based json parser that can be used to parse JSON objects with duplicate keys",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,9 @@
   },
   "dependencies": {
     "clarinet": "^0.12.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IBM/little-flute.git"
   }
 }
