@@ -219,4 +219,4 @@ function flute(json, options) {
  * @param {object} parsedJson current parsed json value
  */
 
-module.exports = flute; // ♬ rappers love their little flutes
+module.exports = flute; // ♬ wrappers love their little flutes
